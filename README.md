@@ -92,7 +92,7 @@ The primary goal is to identify patterns in property price distributions, assess
 ### 🔸 Box Plot Comparison
 
 <p align="center">
-  <img src="assets/Boxplot_Comparison.png" width="70%" alt="Box Plot Comparison Across ACT, SA, QLD">
+  <img src="assets/Boxplot_Comparison.jpg" width="70%" alt="Box Plot Comparison Across ACT, SA, QLD">
 </p>
 
 - ACT and SA have relatively tight distributions
