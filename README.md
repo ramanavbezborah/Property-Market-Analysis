@@ -46,18 +46,24 @@ The primary goal is to identify patterns in property price distributions, assess
 
 ### 🔹 ACT
 
-![alt text] https://github.com/ramanavbezborah/Property-Market-Analysis/blob/main/assets/ACT_Property_Analysis_Dashboard.png?raw=true
+![ACT Visuals](https://github.com/ramanavbezborah/Property-Market-Analysis/blob/main/assets/ACT_Property_Analysis_Dashboard.png?raw=true)
 
 - Majority of properties priced between **$425k–$750k**
 - Strong **positive skew** with long tail and high-priced outliers
 - Median and mean diverge significantly due to skew
 
 ### 🔹 SA
+
+![SA Visuals](https://github.com/ramanavbezborah/Property-Market-Analysis/blob/main/assets/SA_Property_Analysis_Dashboard.png?raw=true)
+
 - Most properties between **$325k–$575k**
 - Also **right-skewed**, though slightly less extreme than QLD
 - Lower variability, suggesting tighter pricing clusters
 
 ### 🔹 QLD
+
+![QLD Visuals](https://github.com/ramanavbezborah/Property-Market-Analysis/blob/main/assets/QLD_Property_Analysis_Dashboard.png?raw=true)
+
 - Broadest price range with **most extreme outliers**
 - Properties most commonly between **$60k–$1.05M**
 - Most skewed distribution, heavily influenced by ultra-luxury listings
