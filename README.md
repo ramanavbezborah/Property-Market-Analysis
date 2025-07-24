@@ -1,7 +1,6 @@
 
 # 📊 Real Estate Price Analysis Across Australian States
 
-**Assignment Project Report – GitHub Version**
 
 ---
 
@@ -29,7 +28,7 @@ The primary goal is to identify patterns in property price distributions, assess
 
 ---
 
-## 📂 Dataset Overview
+## 📂 Dataset Overview -
 
 | Metric                 | ACT            | SA             | QLD            |
 |------------------------|----------------|----------------|----------------|
