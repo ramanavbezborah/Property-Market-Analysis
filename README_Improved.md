@@ -2,7 +2,7 @@
 # 📊 Real Estate Price Analysis Across Australian States
 
 <p align="center">
-  <img src="assets/image.png" alt="Real Estate Market Analysis Banner" width="90%">
+  <img src="assets/Image .png" alt="Real Estate Market Analysis Banner" width="90%">
 </p>
 
 ---
