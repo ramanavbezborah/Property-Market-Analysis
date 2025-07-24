@@ -45,6 +45,9 @@ The primary goal is to identify patterns in property price distributions, assess
 ## 📊 Visual Analysis
 
 ### 🔹 ACT
+
+![alt text] https://github.com/ramanavbezborah/Property-Market-Analysis/blob/main/assets/ACT_Property_Analysis_Dashboard.png?raw=true
+
 - Majority of properties priced between **$425k–$750k**
 - Strong **positive skew** with long tail and high-priced outliers
 - Median and mean diverge significantly due to skew
